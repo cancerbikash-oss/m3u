@@ -53,8 +53,9 @@
 #EXTINF:-1 tvg-id="KantipurMax2.np@SD" tvg-logo="https://i.ibb.co/ShK58p6/Kantipur-Max-2-HD.jpg" group-title="Sports",Kantipur Max 2 HD
 
 
+#EXTINF:-1 tvg-id="NepalTelevision.np@SD" tvg-chno="2" tvg-logo="https://i.imgur.com/y3qhVcT.png" group-title="Nepal",Nepal Television HD
 
-tvg-chno="2"
+
 
 
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" tvg-country="NP" tvg-language="Nepali;Maithili"  group-title="Nepal",Capital TV HD
