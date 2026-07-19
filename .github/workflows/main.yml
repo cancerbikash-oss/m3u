@@ -1,0 +1,31 @@
+name: Scan IPTV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Run Scanner
+        run: python scan_channels.py
+
+      - name: Upload CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: channel_list
+          path: channel_list.csv
