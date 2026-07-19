@@ -14,24 +14,29 @@ with open(output_file, "w", newline="", encoding="utf-8") as f:
             result = subprocess.run(
                 [
                     "ffprobe",
-                    "-v", "quiet",
-                    "-show_entries", "format_tags=service_name",
-                    "-of", "default=noprint_wrappers=1:nokey=1",
+                    "-v", "error",
+                    "-show_entries",
+                    "program_tags=service_name:program_tags=service_provider",
+                    "-of",
+                    "default=noprint_wrappers=1",
                     url
                 ],
                 capture_output=True,
                 text=True,
-                timeout=8
+                timeout=10
             )
 
-            channel = result.stdout.strip()
-            if not channel:
-                channel = "Unknown / No Metadata"
+            output = result.stdout.strip()
+
+            if output:
+                channel = output.replace("\n", " | ")
+            else:
+                channel = "Unknown"
 
         except Exception:
-            channel = "Offline / Not Accessible"
+            channel = "Offline"
 
         writer.writerow([i, url, channel])
         print(i, channel)
 
-print("Done. Saved as channel_list.csv")
+print("Done.")
