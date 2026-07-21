@@ -26,9 +26,15 @@ http://116.90.120.157:8000/play/a0j5
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (Tata Play)
 http://103.253.18.58:8000/play/a00n
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex HD (Tata Play)
+http://116.90.120.157:8000/play/a0o3
+
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Discovery Turbo (Tata Play)
 http://116.90.120.157:8000/play/a0i8
+
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Entertainment",Disney International HD (Tata Play)
+http://116.90.120.157:8000/play/a0o5
 
 #EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies", MNX (Tata Play)
 http://202.70.146.135:8000/play/a052/index.m3u8
@@ -92,6 +98,8 @@ http://103.253.18.58:8000/play/a00m
 http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (Tata Play)
 http://116.90.120.157:8000/play/a0h1
+
+http://116.90.120.157:8000/play/a0o8
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sports",Star Sports 3  (Tata Play)
 http://116.90.120.157:8000/play/a0h3
