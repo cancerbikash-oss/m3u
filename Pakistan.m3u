@@ -1,0 +1,24 @@
+
+#EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Entertainment",Hum TV HD
+http://116.90.120.157:8000/play/a0r2
+#EXTINF:-1 tvg-id="SindhTV.pk" tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Entertainment",Sindh TV
+http://116.90.120.157:8000/play/a0r6
+#EXTINF:-1 tvg-id="GreenEntertainment.pk" tvg-logo="https://i.ibb.co/mrj8fQYd/Green-Entertainment-Logo-Vector-1-300x142.png" group-title="Entertainment”,Green Entertainment HD
+http://116.90.120.157:8000/play/a0r7
+#EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="News”,Time News HD
+http://116.90.120.157:8000/play/a0s1
+#EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="News", ABN News
+http://116.90.120.157:8000/play/a0s2
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan
+http://116.90.120.157:8000/play/a0s8
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Religious",Paighan TV
+http://116.90.120.157:8000/play/a0t5
+#EXTINF:-1 tvg-id="QuranTV.pk" tvg-logo="https://i.imgur.com/nc7X3Ux.png" group-title="Religious",Quran TV
+http://116.90.120.157:8000/play/a0t6
+#EXTINF:-1 tvg-id="PaighanPashtoTV.pk" tvg-logo="" group-title="Religious",Paighan Pashto TV
+http://116.90.120.157:8000/play/a0t7
+#EXTINF:-1 tvg-id="AlZahraTV.pk" tvg-logo="" group-title="Religious",Al Zahra TV
+http://116.90.120.157:8000/play/a0t8
+#EXTINF:-1 tvg-id=".pk" tvg-logo="" group-title="Religious",
+http://116.90.120.157:8000/play/a0t9
+
