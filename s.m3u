@@ -19,17 +19,26 @@ http://202.169.224.202:8800/udp/239.9.1.5:1234
 http://202.169.224.202:8800/udp/239.9.1.6:1234
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet Southeast Asia
 http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="International",ROCK Entertainment
 http://202.169.224.202:8800/udp/239.9.1.8:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://202.169.224.202:8800/udp/239.9.1.9:1234
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/oYUUKra.png" group-title="Sports",Champions TV 2 HD
 http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://202.169.224.202:8800/udp/239.9.1.11:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 http://202.169.224.202:8800/udp/239.9.1.13:1234
 http://202.169.224.202:8800/udp/239.9.1.14:1234
+#EXTINF:-1 tvg-id="Citra Bioskop" tvg-logo="https://i.imgur.com/KK1ipNk.png" group-title="",Citra Bioskop
 http://202.169.224.202:8800/udp/239.9.1.15:1234
 http://202.169.224.202:8800/udp/239.9.1.16:1234
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids”,Nickelodeon Asia
 http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1 tvg-id="NickJrIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/960px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids”,Nick Jr. Indonesia
 http://202.169.224.202:8800/udp/239.9.1.18:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",
 http://202.169.224.202:8800/udp/239.9.1.19:1234
 http://202.169.224.202:8800/udp/239.9.1.20:1234
 http://202.169.224.202:8800/udp/239.9.1.21:1234
