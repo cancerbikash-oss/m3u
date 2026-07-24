@@ -1,7 +1,32 @@
 
+http://ru.iptv.monster/play/100/manifest.m3u8?token=623939143BE8A4B
+http://ru.iptv.monster/play/101/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",SONY Sci-Fi
+http://ru.iptv.monster/play/102/manifest.m3u8?token=623939143BE8A4B
+
+http://ru.iptv.monster/play/105/manifest.m3u8?token=623939143BE8A4B
+http://ru.iptv.monster/play/106/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",Blue Hustler TV
+http://ru.iptv.monster/play/107/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",ааОаОаПаАбаК
+http://ru.iptv.monster/play/108/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",аЇаЕ!
+http://ru.iptv.monster/play/109/manifest.m3u8?token=623939143BE8A4B
+http://ru.iptv.monster/play/110/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",а аа HD Ren TV HD
+http://ru.iptv.monster/play/111/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",ааИаВаИ!
+http://ru.iptv.monster/play/112/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",Star Air
+http://ru.iptv.monster/play/113/manifest.m3u8?token=623939143BE8A4B
+
 http://ru.iptv.monster/play/129/manifest.m3u8?token=623939143BE8A4B
 http://ru.iptv.monster/play/130/manifest.m3u8?token=623939143BE8A4B
+
 http://ru.iptv.monster/play/131/manifest.m3u8?token=623939143BE8A4B
+
 http://ru.iptv.monster/play/132/manifest.m3u8?token=623939143BE8A4B
 http://ru.iptv.monster/play/133/manifest.m3u8?token=623939143BE8A4B
 http://ru.iptv.monster/play/134/manifest.m3u8?token=623939143BE8A4B
@@ -10,4 +35,10 @@ http://ru.iptv.monster/play/136/manifest.m3u8?token=623939143BE8A4B
 http://ru.iptv.monster/play/137/manifest.m3u8?token=623939143BE8A4B
 http://ru.iptv.monster/play/138/manifest.m3u8?token=623939143BE8A4B
 http://ru.iptv.monster/play/139/manifest.m3u8?token=623939143BE8A4B
-
+http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
+http://ru.iptv.monster/play/1767/manifest.m3u8?token=623939143BE8A4B
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
+http://ru.iptv.monster/play/1769/manifest.m3u8?token=75BA4FC1CA5013E
+http://ru.iptv.monster/play/2065/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="",Play Boy
+http://190.60.46.228:8888/play/a01s/index.m3u8
