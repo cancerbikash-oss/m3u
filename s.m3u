@@ -3,6 +3,9 @@ http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Kids",DumDum
 http://45.190.156.152/ZOOMOO/index.m3u8
 
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Movies",ROCK Entertainment
+https://thinkkast.dpdns.org/tkk-ph/i7/dr_rockentertainment/rock-entertainment.m3u8
+
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia
 http://202.169.224.202:8800/udp/239.9.1.17:1234
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",ROCK Action
