@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DaAiTV.tw" tvg-logo="https://i.ibb.co/hRqhsKMs/Da-Ai-TV.webp" group-title="Entertainment",Da Ai TV
+http://nmk.ioapk.com:5050/4gtv-live007/index.m3u8
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="",Beautiful Life TV
+http://nmk.ioapk.com:5050/4gtv-live008/index.m3u8
+#EXTINF:-1 tvg-id="StingrayFestival4K.ca" tvg-logo="https://i.imgur.com/qDYEE8r.png" group-title="Music",Stingray Festival 4K
+http://nmk.ioapk.com:5050/4gtv-live011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jilin Television
+http://nmk.ioapk.com:5050/4gtv-live012/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.ibb.co/vCpZHBv7/Dream-Works-TV.png" group-title="Kids",DreamWorks Channel Asia
+http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",
+http://nmk.ioapk.com:5050/4gtv-live021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",
+http://nmk.ioapk.com:5050/4gtv-live022/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",
+http://nmk.ioapk.com:5050/4gtv-live024/index.m3u8
+#EXTINF:-1 tvg-id="History.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Infotainment",History
+http://nmk.ioapk.com:5050/4gtv-live026/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.sv" group-title="Infotainment",Crime + Investigation Asia
+http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="International",Lifetime
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3YRMzKR4/Live-Interactive-English-tv.png" group-title="Education",Live Interactive English
+http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Music",Stingray CMusic
+http://nmk.ioapk.com:5050/4gtv-live031/index.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia
+http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+http://nmk.ioapk.com:5050/4gtv-live047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+http://nmk.ioapk.com:5050/4gtv-live048/index.m3u8
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="News",NTD TV Asia-Pacific
+http://nmk.ioapk.com:5050/4gtv-live050/index.m3u8
+#EXTINF:-1 tvg-id=" BloombergTV.us " tvg-logo=“https://i.ibb.co/YBM2zRk5/Bloomberg.png" group-title="News", Bloomberg TV
+http://nmk.ioapk.com:5050/4gtv-live059/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Business",SBN Global Finance HD
+http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="",CinemaWorld
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="News", DW
+http://nmk.ioapk.com:5050/4gtv-live071/index.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="International",ROCK Entertainment
+http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="News",SET iNews
+http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8
+#EXTINF:-1 tvg-id="INULTRA.nl" tvg-logo="https://imagedelivery.net/y_spc3duIzCKuqRC3dyVzw/9b119226-48d0-4470-b513-7fa1a9427e5b-inultrapng/itvlarge" group-title="Infotainment",NULTRA (Netherlands)
+http://nmk.ioapk.com:5050/4gtv-live096/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Kids",Nickelodeon Asia
+http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International",DaAi2 (Taiwan)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-id="MomoKids.tw" tvg-logo="https://i.ibb.co/9kxGLFXz/Momo-Kids-logo-29.webp" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Kids,Momo Kids
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTrekker.sg" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Infotainment”,Global Trekker
+http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Travel",ELTA Lifestyle & Travel
+http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Infotainment”, Luxe TV
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Business", CNBC Asia
+http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",ROCK Action
+http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",France 24
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera 
+http://nmk.ioapk.com:5050/4gtv-live157/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World Japan
+http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de" tvg-logo="https://i.ibb.co/4RZdPYLS/M-Motor-Vision.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Infotainment”,Motorvision+
+http://nmk.ioapk.com:5050/4gtv-live201/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://i.ibb.co/NdfH8td2/Love-Nature-logo-2025.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Infotainment”,Love Nature
+http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
+
