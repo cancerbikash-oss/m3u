@@ -1,10 +1,7 @@
 
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia
-http://202.169.224.202:8800/udp/239.9.1.17:1234
+
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",ROCK Action
 http://202.169.224.202:8800/udp/239.9.1.1:1234
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Movies",ROCK Entertainment
-http://202.169.224.202:8800/udp/239.9.1.8:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HGTV
 http://202.169.224.202:8800/udp/239.9.1.3:1234
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-languages="Indonesian" group-title="Lifestyle",TLC Southeast Asia (Indonesian)
@@ -15,7 +12,7 @@ http://202.169.224.202:8800/udp/239.9.1.5:1234
 http://202.169.224.202:8800/udp/239.9.1.6:1234
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet Southeast Asia
 http://202.169.224.202:8800/udp/239.9.1.7:1234
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="International",ROCK Entertainment
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Movies",ROCK Entertainment
 http://202.169.224.202:8800/udp/239.9.1.8:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://202.169.224.202:8800/udp/239.9.1.9:1234
