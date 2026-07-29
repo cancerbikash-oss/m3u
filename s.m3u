@@ -1,12 +1,4 @@
 
-
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
 http://103.137.83.62:9090/play/01/index.m3u8
 http://103.137.83.62:9090/play/02/index.m3u8
 http://103.137.83.62:9090/play/03/index.m3u8
